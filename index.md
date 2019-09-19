@@ -6,21 +6,16 @@ description: Freelance Magento and WordPress website development and design in B
 image: https://keithgreer.uk/wp-content/uploads/2016/10/duck.png
 ---
 
-> **Hello, I'm Keith, web developer in Belfast working with PHP, Magento, WordPress along with everything that involves getting websites online.**
+> Hello, I'm Keith, web developer in Belfast working with PHP, Magento, WordPress along with everything that involves getting websites online.
 
-* [Latest Posts](/articles)
-* [CV](/CV)
-* [/now Page](/now)
 
----
-
-<h1>Latest Posts</h1>
+## Latest Posts
 
 {% for post in site.posts limit:1 %}
-<h2><a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
+<h3><a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
   <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
   {{ post.title }}
-</a></h2>
+</a></h3>
 {% endfor %}
 <ul class="list pa0">
 {% for post in site.posts offset:1 limit:4 %}

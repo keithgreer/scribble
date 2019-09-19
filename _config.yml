@@ -1,22 +1,54 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Scribble"
-description:      "Such theme, very cool."
-url:              http://scribble.muan.co # Site url, without a slash at the end.
-signoff:          "muan" # Your name
+title:            "keithgreer.uk"
+description:      "PHP, Magento and WordPress Developer"
+url:              https://keithgreer.co.uk # Site url, without a slash at the end.
+signoff:          "Keith" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
+share:            true # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         Home
     url:          /
     external:     false
-  - name:         About me
-    url:          /about
+  - name:         Articles
+    url:          /articles
+    external:     false
+  - name:         WordPress
+    url:          /wordpress-northern-ireland
+    external:     false
+  - name:         Magento
+    url:          /magento-ecommerce
+    external:     false
+  - name:         Development
+    url:          /website-development
+    external:     false
+  - name:         CV
+    url:          /cv
     external:     false
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /posts/:title
-defaults:
-  - values:
-      layout: "default"
+
+permalink: /:year/:month/:title
+markdown: kramdown
+include: [_pages]
+sass:
+  style: compressed
+
+#plugins
+plugins_dir:
+  - jekyll-seo-tag
+
+
+# exclude files
+exclude:
+  - _site
+  - Gemfile
+  - Gemfile.lock
+  - LIVENSE
+  - README.md
+  - CHANGELOG.html
+  - CHANGELOG.md
+  - lib
+  - CNAME
+  - LICENSE

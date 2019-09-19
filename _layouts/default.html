@@ -1,10 +1,10 @@
-{% assign is_post = page.date %}
-<!doctype>
+{% assign is_post = page.date %}<!doctype>
 <html lang="en">
   <head>
     <meta content='{{ page.title }} - {{ site.title }}' name='title' />
     <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
     {% include head.html %}
   </head>
   <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
@@ -31,7 +31,11 @@
             <h1 class="ttu f3 mt0 lh-title cb mb2">
               {% if is_post %}
               {% endif %}
-              {{ page.title }}
+              {% if page.h1 %}
+                {{ page.h1 }}
+              {% else %}
+                {{ page.title }}
+              {% endif %}
             </h1>
             {% if is_post and site.share %}
               <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
