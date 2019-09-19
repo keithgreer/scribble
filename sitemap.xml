@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://keithgreer.uk/</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/articles/</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/contact</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-ecommerce</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/website-development</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/wordpress-northern-ireland</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-1-ongoing-support-end-of-life</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/2019/02/jekyll</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/introduction-to-ubuntu-mate</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento2-show-hide-layered-navigation-on-category-pages</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/running-xampp-on-ubuntu-using-terminal</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento2-cli-set-ubuntu-php-version-to-match-lampp-xampp</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/enable-magento2-command-line-interface-cli-on-linux</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/javascript-and-css-framework-independent-cookie-pop-up-notification-for-legacy-websites</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/the-latest-update-to-php7-is-here-7-2-0</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/setting-up-a-multipurpose-cmsed-liquid-homepage-section-for-shopify</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/shopify-list-product-variations-on-collection-pages</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/cms-blocks-disappear-version-1-9-2-2-upgrade-supee-6788-patch</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-code-seasonal-sales-link</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/running-ubuntu-windows</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/why-is-wordpress-so-popular</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/gdpr-eu-general-data-protection-regulation</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/spammers-murphy-consulting</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/checkout-problems-upgrading-to-magento-1-9-3-4</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/upgrading-magento-1-magento-connect-downloader</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/upgrading-magento-1-command-line</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/spammers-lee-andrew-meranda-compensation-specialist</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/update-hosts-file</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-server-transfer-tried-tested-method</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/ordering-assets-in-magento-2</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-code-innoexts-currency-pricing-modul-price-and-special-price-import-via-ssh</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/php-glob</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-check-an-import-directory-for-new-product-csvs-and-process-using-a-magmi-profile</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-sage-pay-orphan-transactions</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/php-header</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/php-str_replace</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/create-custom-url-rewriteredirect-magento</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-code-include-currency-switcher-in-the-header-or-footer-with-foundation-mark-up</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-code-add-drop-attribute-attribute-set-display-product-page-custom-html</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-header-phtml-basic-user-account-basket-code</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-issue-unable-to-sort-configurable-product-attribute-drop-down-options-on-front-end</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/testing-youtube-embedded-video-responsiveness-in-wordpress</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-product-types-and-what-to-use-them-for</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/anonymous-browsing</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/wordpress-code-completely-disable-comments-using-functions-php</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/mysql-truncate-command-quickly-and-easilty-clear-out-the-magento-database</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/session-management-validation-settings-magento-configuration</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/one-google-analytics-tracking-magneto</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/one-facebook-pixel-code-magento-ecommerce</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/why-you-should-be-using-magento-for-your-ecommerce-website</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/how-to-use-php-to-submit-a-curl-request-with-http-post-data</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/getting-your-product-information-ready-for-importing-to-your-website</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/win-google-im-moving-keith-kg-keithgreer-uk</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/add-facebook-pixel-code-magento-success-page</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/quickfix-quickly-add-new-magento-cms-page-template</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-code-bulk-add-new-product-attribute-store-attribute-sets</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/vote2016</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-code-united-kingdom-and-republic-of-ireland-counties-for-region-drop-down-in-addresses</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/cloudflare-my-next-step-for-website-optomisation</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/why-use-an-ssl-search-engine-optimisation</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/why-use-an-ssl-number-2-user-confidence</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/i-can-get-access-to-better-internet-in-rural-mid-ulster-than-in-north-belfast</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/why-use-an-ssl-security</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-issue-one-page-checkout-appearing-to-jump-to-the-bottom-of-the-page-after-address-is-entered</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/useful-htaccess-rules-setting-the-expires-header-for-browser-caching</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/mysql-database-backup-and-restore-copy-and-pasteable</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/paypal-ipn-notification-errors-with-magento</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/use-wordpress-blog-tags-to-find-related-posts-php</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/google-chrome-getting-a-new-security-panel-for-developers</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/pc-gaming-wins</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/iceland</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/introduction-magento-2-0-whats-changed</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/setting-up-your-magento-store-to-cope-with-a-black-friday-surge</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/php-storm-and-making-ftp-connections-with-ssl-ftps</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/web-application-security-testing</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-clear-all-caches-through-command-line</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/steven-says-slack-messenger-is-awesome</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/how-to-link-to-a-pdf-in-wordpress</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/import-values-to-dropdownmultiple-select-attributes</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/batch-importer-for-magento-product-skus</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/block-access-based-on-client-ip-using-php</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/useful-gitattributes-defaults-for-beanstalk-git</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/upgrading-to-googles-universal-analytics-in-magento</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/add-google-analytics-ecommerceaddtransaction-to-your-magneto-store</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/add-static-blocks-to-cms-pages-in-admin</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/useful-excel-commands-for-magento-image-import</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/magento-issue-subtotal-and-grand-total-prices-double-at-cart-checkout-stages</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/two-cents-the-eu-cookie-legislation</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/choose-a-better-browser</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://keithgreer.uk/spammers-video-domination-marketing-with-accurate-media-solutions-steve-marks</loc>
+  <lastmod>2019-03-12T14:04:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
